@@ -33,7 +33,7 @@ Pro spuštění aplikace na vašem počítači proveďte následující kroky v 
    ```
    Aplikace nyní běží na adrese `http://127.0.0.1:8000`.
 
-## 🧪 Spuštění testů
+## Spuštění testů
 Pro ověření funkčnosti aplikace můžete spustit automatické testy:
 ```bash
 php artisan test
